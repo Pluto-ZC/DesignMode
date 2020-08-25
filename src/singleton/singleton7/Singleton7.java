@@ -1,4 +1,4 @@
-package singleton7;
+package singleton.singleton7;
 
 
 public class Singleton7 {
