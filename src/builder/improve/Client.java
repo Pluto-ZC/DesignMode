@@ -14,6 +14,7 @@ public class Client {
         //重置建造者
         housesDirector.setHouseBuilder(highBuilding);
         //完成盖房子 返回产品
+
         housesDirector.constructHouse();
     }
 }
