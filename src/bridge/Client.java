@@ -17,5 +17,10 @@ public class Client {
         phone3.open();
         phone3.close();
         phone3.call();
+
+        UpRightPhone phone4 = new UpRightPhone(new Vivo());
+        phone4.open();
+        phone4.close();
+        phone4.call();
     }
 }
