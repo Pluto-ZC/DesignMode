@@ -3,13 +3,13 @@ package iterator;
 import java.util.Iterator;
 import java.util.List;
 
-public class InfoColleageIterator implements Iterator {
+public class InfoCollegeIterator implements Iterator {
 
     //信息工程学院是以list方式存放系
     List<Department> departmentList;
     int index = -1;//索引
 
-    public InfoColleageIterator(List<Department> departmentList) {
+    public InfoCollegeIterator(List<Department> departmentList) {
         this.departmentList = departmentList;
     }
 
