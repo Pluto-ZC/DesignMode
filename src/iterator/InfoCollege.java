@@ -28,6 +28,6 @@ public class InfoCollege implements College {
 
     @Override
     public Iterator createIterator() {
-        return new InfoColleageIterator(departmentList);
+        return new InfoCollegeIterator(departmentList);
     }
 }
