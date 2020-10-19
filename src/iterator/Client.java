@@ -3,6 +3,7 @@ package iterator;
 import java.util.ArrayList;
 import java.util.List;
 
+//迭代器模式
 public class Client {
     public static void main(String[] args) {
         //创建学院
