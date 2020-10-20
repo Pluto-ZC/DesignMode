@@ -1,6 +1,5 @@
 package mediator.smarthouse;
 
-//ͬ�³�����
 public abstract class Colleague {
 	private Mediator mediator;
 	public String name;
